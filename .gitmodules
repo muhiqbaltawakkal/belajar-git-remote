@@ -1,0 +1,3 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:muhiqbaltawakkal/belajar-git-submodul.git
